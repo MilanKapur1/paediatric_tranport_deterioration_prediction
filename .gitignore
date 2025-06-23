@@ -14,3 +14,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Ignore the 2 large models - these will be made avalable in an alternative way
+final_resp_models/combined_model_without_transformer_simpler_demographics/combined_model_without_transformer_simpler_demographics.pth
+final_cardiac_models/combined_model_without_transformer_simpler_demographics/combined_model_without_transformer_simpler_demographics.pth
